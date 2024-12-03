@@ -1,4 +1,4 @@
-# Report on Covid cased in india Dataset -
+# Report on Covid case in india Dataset -
 i have created Report on covid cases in india dataset. in which extract the data first then i loaded data in power query. 
 Where i cleaned the data first because data contained the blank,missing values and irrelevant rows. 
 Than after i divided data into facts and dimension for better analysis. Then i created relationship between the table in model view. 
