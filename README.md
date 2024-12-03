@@ -17,4 +17,4 @@ way by seeing visuals because visuals gives clear insights of data as compares t
 - Ratio of cured patient is far more as compare to death
 - Maharashtra is ranking in top in covid cases
 - by reading the line chart we can see that cases in feb to may the confirm case and death is less after may we can see the growth of 40k death over 20 lakh confirmed cases
-- 
+  
